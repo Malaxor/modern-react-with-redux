@@ -1,0 +1,1 @@
+The fundamentals of React v16.3.2 and Redux; Develop apps with React Router, Webpack, and ES6.
