@@ -12,7 +12,6 @@ const VideoListItem = (props) => {
                 <div className='media-left'>
                     <img className='media-object' src={imageUrl}/>
                 </div>
-
                 <div className='media-body'>
                     <div className='media-heading'>{videoTitle}</div>
                 </div>
