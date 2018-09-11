@@ -8,7 +8,6 @@ function average(data) {
     return _.round(_.sum(data) / data.length);
 }
 
-
 const Chart = props => (
 
     <div>
