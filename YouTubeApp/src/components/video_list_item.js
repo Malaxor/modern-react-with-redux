@@ -1,7 +1,7 @@
 
 import React from 'react';
 
-const VideoListItem = (props) => {
+const VideoListItem = props => {
     
     const imageUrl = props.video.snippet.thumbnails.default.url;
     const videoTitle = props.video.snippet.title;
